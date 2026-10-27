@@ -64,11 +64,11 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at the email
-below. All complaints will be reviewed and investigated promptly and fairly.
+reported to the community leaders responsible for enforcement. All complaints
+will be reviewed and investigated promptly and fairly.
 
-**Report violations to**:
-[ajaykumarn3000@gmail.com](mailto:ajaykumarn3000@gmail.com)
+**Report violations via**:
+[GitHub Issues](https://github.com/atharva-bhagat/Nukelear/issues)
 
 All community leaders are obligated to respect the privacy and security of those
 who report incidents in good faith.
@@ -135,8 +135,7 @@ Community Impact Guidelines were inspired by
 ## Questions?
 
 If you have questions about this Code of Conduct or how to report violations,
-please reach out to our maintainers at
-[ajaykumarn3000@gmail.com](mailto:ajaykumarn3000@gmail.com).
+please reach out via [GitHub Issues](https://github.com/atharva-bhagat/Nukelear/issues).
 
 For more information about contributing to Nukelear, see our
 [Contributing Guidelines](./CONTRIBUTING.md).
