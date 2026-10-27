@@ -68,7 +68,8 @@ reported to the community leaders responsible for enforcement. All complaints
 will be reviewed and investigated promptly and fairly.
 
 **Report violations via**:
-[GitHub Issues](https://github.com/atharva-bhagat/Nukelear/issues)
+[GitHub Issues](https://github.com/joel-patole/Nukelear/issues) or by email at
+[joelpatole1@gmail.com](mailto:joelpatole1@gmail.com)
 
 All community leaders are obligated to respect the privacy and security of those
 who report incidents in good faith.
@@ -135,7 +136,8 @@ Community Impact Guidelines were inspired by
 ## Questions?
 
 If you have questions about this Code of Conduct or how to report violations,
-please reach out via [GitHub Issues](https://github.com/atharva-bhagat/Nukelear/issues).
+please reach out via [GitHub Issues](https://github.com/joel-patole/Nukelear/issues)
+or email [joelpatole1@gmail.com](mailto:joelpatole1@gmail.com).
 
 For more information about contributing to Nukelear, see our
 [Contributing Guidelines](./CONTRIBUTING.md).

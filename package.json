@@ -22,14 +22,19 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/atharva-bhagat/Nukelear.git"
+		"url": "https://github.com/joel-patole/Nukelear.git"
 	},
 	"keywords": [
 		"nukelear",
 		"cli",
 		"tools"
 	],
-	"author": "Atharva Bhagat",
+	"author": "Joel Patole <joelpatole1@gmail.com> (https://github.com/joel-patole)",
+	"bugs": {
+		"url": "https://github.com/joel-patole/Nukelear/issues",
+		"email": "joelpatole1@gmail.com"
+	},
+	"homepage": "https://github.com/joel-patole/Nukelear#readme",
 	"license": "MIT",
 	"type": "module",
 	"packageManager": "pnpm@10.27.0",

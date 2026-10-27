@@ -15,7 +15,7 @@ We prefer that you use GitHub's **private vulnerability reporting** feature to
 disclose potential security vulnerabilities:
 
 1. Navigate to the
-   [Nukelear repository](https://github.com/atharva-bhagat/Nukelear)
+   [Nukelear repository](https://github.com/joel-patole/Nukelear)
 2. Click the **Security** tab
 3. Click **Report a vulnerability**
 4. Fill out the vulnerability report form with as much detail as possible
@@ -23,8 +23,9 @@ disclose potential security vulnerabilities:
 ### Alternative Contact
 
 If you're unable to use GitHub's vulnerability reporting feature, you can report
-via [GitHub Issues](https://github.com/atharva-bhagat/Nukelear/issues) with the
-title "[SECURITY]" to bring it to our attention.
+via [GitHub Issues](https://github.com/joel-patole/Nukelear/issues) with the
+title "[SECURITY]" to bring it to our attention, or email the maintainer
+directly at [joelpatole1@gmail.com](mailto:joelpatole1@gmail.com).
 
 Please include:
 

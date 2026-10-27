@@ -8,17 +8,17 @@
 
 [![npm version](https://badge.fury.io/js/nukelear.svg)](https://www.npmjs.com/package/nukelear)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/atharva-bhagat/Nukelear)](https://github.com/atharva-bhagat/Nukelear/issues)
-[![GitHub stars](https://img.shields.io/github/stars/atharva-bhagat/Nukelear)](https://github.com/atharva-bhagat/Nukelear/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/atharva-bhagat/Nukelear)](https://github.com/atharva-bhagat/Nukelear/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/atharva-bhagat/Nukelear)](https://github.com/atharva-bhagat/Nukelear/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/joel-patole/Nukelear)](https://github.com/joel-patole/Nukelear/issues)
+[![GitHub stars](https://img.shields.io/github/stars/joel-patole/Nukelear)](https://github.com/joel-patole/Nukelear/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/joel-patole/Nukelear)](https://github.com/joel-patole/Nukelear/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/joel-patole/Nukelear)](https://github.com/joel-patole/Nukelear/graphs/contributors)
 
 **The dual-purpose developer toolkit: recursively clean up heavy dependencies to reclaim disk storage — and upload clean project files straight to GitHub with automated secret detection.**
 
-[⭐ Star on GitHub](https://github.com/atharva-bhagat/Nukelear) •
-[🐛 Report Bug](https://github.com/atharva-bhagat/Nukelear/issues) •
-[💡 Request Feature](https://github.com/atharva-bhagat/Nukelear/discussions) •
-[🤝 Contribute](https://github.com/atharva-bhagat/Nukelear/blob/main/CONTRIBUTING.md)
+[⭐ Star on GitHub](https://github.com/joel-patole/Nukelear) •
+[🐛 Report Bug](https://github.com/joel-patole/Nukelear/issues) •
+[💡 Request Feature](https://github.com/joel-patole/Nukelear/discussions) •
+[🤝 Contribute](https://github.com/joel-patole/Nukelear/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -178,7 +178,7 @@ started:
 
 ```bash
 # Clone the repository
-git clone https://github.com/atharva-bhagat/Nukelear.git
+git clone https://github.com/joel-patole/Nukelear.git
 cd Nukelear
 
 # Install dependencies
@@ -394,6 +394,6 @@ guarantee — always glance over the file list yourself before uploading.
 
 <div align="center">
 
-**Made by [Atharva Bhagat](https://github.com/atharva-bhagat)**
+**Made by [Joel Patole](https://github.com/joel-patole)** · [joelpatole1@gmail.com](mailto:joelpatole1@gmail.com)
 
 </div>
